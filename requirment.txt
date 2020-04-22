@@ -1,0 +1,6 @@
+pip install firebase
+pip install python_jwt
+pip install gcloud
+pip install sseclient
+pip install Crypto
+pip install PyCryptodome
